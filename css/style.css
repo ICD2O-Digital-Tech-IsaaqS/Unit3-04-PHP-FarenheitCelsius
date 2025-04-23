@@ -1,4 +1,37 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Isaaq Simon
+* Created on: April 2025
 * This file contains the CSS for index.html
 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    background-color: #f0f8ff;
+}
+
+.converter {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label,
+input,
+button {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+}
