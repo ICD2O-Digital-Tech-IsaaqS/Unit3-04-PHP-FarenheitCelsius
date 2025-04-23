@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="Farenheit to Celsius, with PHP">
+  <meta name="description" content="Fahrenheit to Celsius, with PHP">
   <meta name="keywords" content="Immaculata, ICD2O">
   <meta name="author" content="Isaaq Simon">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="apple-touch-icon" sizes="180x180" href="./favicon_io (12)/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="./favicon_io (12)/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io (12)/favicon-16x16.png">
-  <link rel="manifest" href="./favicon_io (12)/site.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="./favicon_io (13)/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./favicon_io (13)/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io (13)/favicon-16x16.png">
+  <link rel="manifest" href="./favicon_io (13)/site.webmanifest">
   <title>Fahrenheit to Celsius Converter</title>
   <link rel="stylesheet" href="./css/style.css">
 </head>
@@ -33,6 +33,8 @@
       ?>
     </div>
   </div>
+
+  <img src="images/FahrenheitandCelsius.png" alt="Temperature">
 
 </body>
 </html>
